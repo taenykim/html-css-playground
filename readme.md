@@ -10,6 +10,7 @@
 - HTML op tag
 - HTML SEO
 - css responsive
+- css로 이모지만들어보기
 - css animation
 - css selector
 - css darkmode
