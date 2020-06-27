@@ -9,7 +9,7 @@
 - HTML semantic ✅
 - HTML op tag
 - HTML SEO
-- css responsible
+- css responsive
 - css animation
 - css selector
 - css darkmode
@@ -29,6 +29,8 @@
 ### 3. `<main>`
 
 `<main>` 에는 일반적으로 메인 컨텐츠를 다룬다.
+
+하나의 페이지에 하나만 존재해야 한다.
 
 `<main>`의 자손으로 `<header>`, `<footer>`를 두지 않고
 
