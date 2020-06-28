@@ -9,7 +9,7 @@
 - HTML semantic ✅
 - HTML op tag ✅
 - HTML SEO ✅
-  ├─ SPA SSL
+- SPA SSL
 - css responsive
 - css로 이모지만들어보기
 - css animation
