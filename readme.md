@@ -57,3 +57,7 @@
 ### 6. `<h1>` `<p>`
 
 제목(title)과 내용(description)이 존재하는 아티클에는 `<div>` 나 `텍스트노드` 대신 `<h1>`과 `<p>` 사용하기!
+
+## og & meta tag
+
+https://blog.naver.com/minisite/220717178399
