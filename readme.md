@@ -9,7 +9,7 @@
 - HTML semantic ✅
 - HTML op tag ✅
 - HTML SEO ✅
-- SPA SSL
+- SPA SSR ✅
 - css responsive
 - css로 이모지만들어보기
 - css animation
@@ -61,3 +61,15 @@
 ## og & meta tag
 
 https://blog.naver.com/minisite/220717178399
+
+## SSR in SPA
+
+### 1. `<noscript/>`
+
+You need to enable JavaScript to run this app.
+
+자바스크립트로 페이지를 구성하는 spa의 특성 때문에 CSR이 사용되지 않거나 스크립트를 지원하지 않는 경우, 요 태그로 메시지를 적어준다.
+
+### 2. 서버사이드 렌더링
+
+https://www.postman.com/ 으로 request 날려보기!
