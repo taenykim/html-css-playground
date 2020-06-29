@@ -13,7 +13,7 @@
 - css responsive
 - css로 이모지만들어보기
 - css animation
-- css selector
+- css selector ✅
 - css darkmode
 
 ## HTML semantic
