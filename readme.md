@@ -73,3 +73,16 @@ You need to enable JavaScript to run this app.
 ### 2. 서버사이드 렌더링
 
 https://www.postman.com/ 으로 request 날려보기!
+
+## CSS selector Priority
+
+https://ofcourse.kr/css-course/%EC%A0%81%EC%9A%A9-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84
+
+1. !important
+2. inline style
+3. id
+4. class
+5. tag
+6. parent
+
+> css는 위에서 아래로 적용하기 때문에 아랫것이 마지막으로 적용됨.(캐스캐이딩~) 클래스네임 지정 순서는 상관없음.
